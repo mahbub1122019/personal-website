@@ -25,7 +25,7 @@ h2{
     padding-left: 2%;
 }
 .half-width img{
-    width: 80%;
+    width: 50%;
     height: 400px;
 
 }
@@ -43,16 +43,18 @@ background-position: left;}
 .container{
     max-width:100%;
   display: block;
+  
 }
 .gallary{
     margin: 7px;
-    border: 2px solid #ccc;
+    border: 5px solid #ccc;
     float: left;
-    width: 400px;
+    width: 500px;   
 }
 .gallary img{
     width: 100%;
-    height: auto
+    height: auto;
+  
     
 }
 .high{
